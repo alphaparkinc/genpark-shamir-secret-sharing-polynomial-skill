@@ -1,0 +1,9 @@
+{
+  "name": "genpark-shamir-secret-sharing-polynomial-skill",
+  "version": "1.0.0",
+  "description": "Shamir (k, n) threshold secret sharing via Lagrange polynomial interpolation over finite fields",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
