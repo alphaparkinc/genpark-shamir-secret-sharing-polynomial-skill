@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-shamir-secret-sharing-polynomial-skill
+service:
+  name: genpark-shamir-secret-sharing-polynomial-skill
+  command: python
+  args:
+    - mcp_server.py
